@@ -1,0 +1,5 @@
+name: NDLeilao
+main: me.nd.leilao.Main
+version: 0.1
+api-version: 1.13
+depend: [Vault]
